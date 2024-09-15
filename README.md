@@ -2,6 +2,9 @@
 
 <p>This project is a <strong>conversational chatbot</strong> built using <strong>Streamlit</strong> and <strong>LangChain's Groq API</strong> integration. It helps users (students) ask questions about books, papers, and articles, while maintaining conversation flow and providing contextually relevant answers.</p>
 
+<p>Check the live demo <a href="https://student-management-system-2-xl93.onrender.com/">here</a>.</p>
+
+
 <h2>Features</h2>
 <ul>
   <li><strong>Conversational Assistant</strong>: Provides responses related to books, papers, or articles based on user queries.</li>
