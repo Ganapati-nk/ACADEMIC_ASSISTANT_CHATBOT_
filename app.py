@@ -9,8 +9,8 @@ load_dotenv()
 os.environ['GROQ_API_KEY'] = os.getenv("GROQ_API_KEY")
 groq_api_key = os.getenv("GROQ_API_KEY")
 
-st.set_page_config(page_title="Student Management System")
-st.title("Student Management System")
+st.set_page_config(page_title="ACADEMIC_ASSISTANT_CHATBOT ")
+st.title("ACADEMIC_ASSISTANT_CHATBOT")
 
 try:
     llm = ChatGroq(api_key=groq_api_key, model="Gemma-7b-It")
