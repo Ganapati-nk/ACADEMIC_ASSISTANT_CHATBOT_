@@ -1,4 +1,4 @@
-<h1>Student Management System Chatbot</h1>
+<h1>ACADEMIC ASSISTANT CHATBOT </h1>
 
 <p>This project is a <strong>conversational chatbot</strong> built using <strong>Streamlit</strong> and <strong>LangChain's Groq API</strong> integration. It helps users (students) ask questions about books, papers, and articles, while maintaining conversation flow and providing contextually relevant answers.</p>
 
